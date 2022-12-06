@@ -70,8 +70,4 @@ If you want to help by translating the items to other languages [this](https://g
 
 [MIT](LICENSE)
 
-## About
 
-Created by [zrrzzt](https://github.com/zrrrzzt) and [maccyber](https://github.com/maccyber) with ❤ for [Alheimsins](https://alheimsins.net)
-
-<img src="https://image.ibb.co/dPH08G/logo_black.png" height="150px" width="150px" />

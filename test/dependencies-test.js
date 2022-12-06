@@ -10,7 +10,7 @@ test('basic check', t => {
 Object.keys(devDependencies).filter(isDropped).forEach(dependency => {
   test(`${dependency} loads ok`, t => {
     const module = require(dependency)
-    t.truthy(module)
+    t.truthy (module)
   })
 })
 
